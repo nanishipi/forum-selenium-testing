@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-02T16:22:49 CET" name="Default suite" finished-at="2022-12-02T16:22:53 CET" duration-ms="3775">
+    <groups>
+    </groups>
+    <test started-at="2022-12-02T16:22:49 CET" name="Default test" finished-at="2022-12-02T16:22:53 CET" duration-ms="3775">
+      <class name="selenium.ForumTests">
+        <test-method is-config="true" signature="setUpMethod()[pri:0, instance:selenium.ForumTests@35ef1869]" started-at="2022-12-02T16:22:49 CET" name="setUpMethod" finished-at="2022-12-02T16:22:53 CET" duration-ms="3250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpMethod -->
+        <test-method signature="SubmitTest()[pri:0, instance:selenium.ForumTests@35ef1869]" started-at="2022-12-02T16:22:53 CET" name="SubmitTest" finished-at="2022-12-02T16:22:53 CET" duration-ms="383" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SubmitTest -->
+        <test-method is-config="true" signature="tearDownMethod()[pri:0, instance:selenium.ForumTests@35ef1869]" started-at="2022-12-02T16:22:53 CET" name="tearDownMethod" finished-at="2022-12-02T16:22:53 CET" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownMethod -->
+      </class> <!-- selenium.ForumTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
